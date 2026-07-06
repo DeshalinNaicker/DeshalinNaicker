@@ -282,7 +282,12 @@ Worked as part of a collaborative development team building a mobile application
 ## Contribution Snake
 
 </div>
-
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DeshalinNaicker/DeshalinNaicker/output/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Snake" 
+  />
+</p>
 
 
 ---
