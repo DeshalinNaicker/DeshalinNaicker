@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0524,35:3B0764,70:4C1D95,100:6366F1&text=Deshalin%20Naicker&fontColor=F8FAFC&fontSize=54&fontAlignY=38&desc=Software%20Engineering%20Honours%20Student%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Driven%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:070713,30:24104F,58:5B21B6,82:9333EA,100:38BDF8&text=Deshalin%20Naicker&fontColor=FFFFFF&fontSize=57&fontAlignY=36&desc=Software%20Developer%20%7C%20UI%2FUX%20Explorer%20%7C%20Full-Stack%20Builder&descSize=17&descAlignY=59&animation=twinkling" 
+    width="100%" 
+    alt="Deshalin Naicker Header" 
+  />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Engineering+clean%2C+creative%2C+scalable+digital+systems;Frontend+%7C+Full-Stack+%7C+UI%2FUX+%7C+AI-Enhanced+Development;Building+premium+software+experiences+with+purpose" alt="Typing SVG" />
-</p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deshalin-naicker-1b46b3284" target="_blank" title="LinkedIn">
     <img 
       src="https://github.com/user-attachments/assets/c45db762-375d-40a9-8b7d-5611f6956f11" 
-      width="48" 
-      height="48" 
+      width="50" 
+      height="50" 
       alt="LinkedIn" 
     />
   </a>
@@ -21,8 +20,8 @@
   <a href="mailto:deshalinnaicker@gmail.com" title="Email">
     <img 
       src="https://github.com/user-attachments/assets/336ade60-c549-4088-9c09-5f338c15c4de" 
-      width="48" 
-      height="48" 
+      width="50" 
+      height="50" 
       alt="Email" 
     />
   </a>
@@ -31,15 +30,15 @@
   <a href="https://github.com/DeshalinNaicker" target="_blank" title="GitHub">
     <img 
       src="https://github.com/user-attachments/assets/9d773139-0493-4601-b1e9-a20caee22289" 
-      width="48" 
-      height="48" 
+      width="50" 
+      height="50" 
       alt="GitHub" 
     />
   </a>
 </p>
 
 
----
+
 
 <div align="center">
 
@@ -67,7 +66,6 @@ I’m still growing as a developer, but I’m always open to learning new skills
 
 </div>
 
----
 
 <div align="center">
 
@@ -95,7 +93,7 @@ I’m still growing as a developer, but I’m always open to learning new skills
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -116,7 +114,7 @@ I’m still growing as a developer, but I’m always open to learning new skills
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -140,29 +138,30 @@ A Kotlin-based Android productivity application designed for students to manage 
 | Performance | Local database storage, structured state handling, and efficient list rendering |
 | Security | Offline-first local data handling with controlled user input |
 | Impact | Helps students organize study routines, track productivity, and manage academic tasks |
-| Repository | [View Repository](https://github.com/DeshalinNaicker) |
+| Repository | [View Repository](https://github.com/DeshalinNaicker/StudyNest_Application.git) |
 
 StudyNest combines productivity logic with a user-friendly interface. It includes Pomodoro timers, planner views, note-taking, analytics, multilingual support, and customizable themes, reflecting a balance between practical utility and polished mobile design.
 
 </details>
 
+
 <details>
-<summary><b>International Payment System</b></summary>
+<summary><b>PennyPimpin Budgeting Application</b></summary>
 
 <br>
 
-A secure full-stack payment management system built with a customer and employee workflow, authentication, transaction verification, and role-based dashboard experiences.
+A student-focused Android budgeting application designed to help users manage their money, track expenses, and build better spending habits through a simple mobile experience.
 
 | Attribute | Details |
 |---|---|
-| Stack | React, Node.js, Express, MongoDB Atlas, JWT, HTTPS |
-| Scale | Full-stack payment workflow with customer and employee roles |
-| Performance | Structured REST APIs, optimized route handling, and dashboard-based interaction |
-| Security | JWT authentication, HTTPS development, Helmet, rate limiting, HPP protection, sanitization |
-| Impact | Demonstrates secure transaction handling and enterprise-style role-based access |
-| Repository | [View Repository](https://github.com/DeshalinNaicker) |
+| Stack | Android, Kotlin, Firebase |
+| Scale | Student budgeting and personal finance mobile app |
+| Performance | Lightweight mobile interface with Firebase-backed data handling |
+| Security | Firebase authentication and controlled user data access |
+| Impact | Helps students manage expenses, understand spending patterns, and stay more aware of their finances |
+| Repository | [View Repository](https://github.com/DeshalinNaicker/Penny-Pimpin-Application.git) |
 
-The system focuses on secure authentication, clear separation of user roles, transaction creation, employee verification, and practical security middleware. It reflects a product engineering mindset where usability and security are treated as core requirements.
+PennyPimpin was built as a budgeting app aimed at students. The goal was to create a simple and useful mobile tool for tracking money, managing expenses, and making personal finance feel easier to understand.
 
 </details>
 
@@ -180,7 +179,7 @@ A collaborative Android application developed for a non-profit organization, sup
 | Performance | Mobile-first workflows with cloud-connected functionality |
 | Security | Firebase-backed access patterns and controlled admin functionality |
 | Impact | Supports community outreach, fundraising, events, and organizational communication |
-| Repository | [View Repository](https://github.com/DeshalinNaicker) |
+| Repository | [View Repository](https://github.com/DeshalinNaicker/District_49_Mobile_Application.git) |
 
 This project strengthened my ability to work in a collaborative development environment, contribute as a frontend developer, and build software aligned with real stakeholder needs. It reflects my interest in meaningful technology that supports communities.
 
@@ -195,7 +194,7 @@ This project strengthened my ability to work in a collaborative development envi
 
 </details>
 
----
+
 
 <div align="center">
 
@@ -224,7 +223,7 @@ Worked as part of a collaborative development team building a mobile application
   <img src="https://img.shields.io/badge/Team%20Collaboration-312E81?style=flat-square&logo=github&logoColor=white" />
 </p>
 
----
+
 
 <div align="center">
 
@@ -245,7 +244,7 @@ Worked as part of a collaborative development team building a mobile application
 
 </div>
 
----
+
 
 
 <div align="center">
@@ -261,7 +260,7 @@ Worked as part of a collaborative development team building a mobile application
 
 
 
----
+
 
 <div align="center">
 
@@ -275,11 +274,9 @@ Worked as part of a collaborative development team building a mobile application
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeshalinNaicker&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Deshalin%20Naicker%20Contribution%20Graph" width="100%" />
 </p>
 
----
 
-<div align="center">
 
-## Contribution Snake
+
 
 </div>
 <p align="center">
