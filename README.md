@@ -1,5 +1,6 @@
 <p align="center">
-<img width="1584" height="396" alt="DESHALIN NAICKER (2)" src="https://github.com/user-attachments/assets/6865bb1c-aa41-4b4f-9747-bdbfef203b23" />
+<img width="1918" height="820" alt="Banner_github" src="https://github.com/user-attachments/assets/a7ee46fa-c000-460a-8583-dd12409a0b90" />
+
 
 </p>
 
