@@ -1,9 +1,6 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:070713,30:24104F,58:5B21B6,82:9333EA,100:38BDF8&text=Deshalin%20Naicker&fontColor=FFFFFF&fontSize=57&fontAlignY=36&desc=Software%20Developer%20%7C%20UI%2FUX%20Explorer%20%7C%20Full-Stack%20Builder&descSize=17&descAlignY=59&animation=twinkling" 
-    width="100%" 
-    alt="Deshalin Naicker Header" 
-  />
+<img width="1584" height="396" alt="DESHALIN NAICKER (2)" src="https://github.com/user-attachments/assets/6865bb1c-aa41-4b4f-9747-bdbfef203b23" />
+
 </p>
 
 <p align="center">
